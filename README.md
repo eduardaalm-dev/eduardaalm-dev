@@ -1,16 +1,33 @@
-## Hi there 👋
+# Eduarda Almeida
 
-<!--
-**eduardaalm-dev/eduardaalm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma desenvolvedora em formação, estudo em uma escola profissionalizante e estou cursando Desenvolvimento de Sistemas. Pretendo fazer mais de uma faculdade na área, e fazer disso o meu futuro de vida.
+---
+### Conhecimentos de linguagens
+<img align="left"
+  alt="Postgresql"
+  title="Postgresql"
+  width="40px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
 
-Here are some ideas to get you started:
+<img align="left"
+  alt="Postgresql"
+  title="Postgresql"
+  width="40px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left"
+  alt="Postgresql"
+  title="Postgresql"
+  width="40px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
+          
+          
+          
+          
+          
